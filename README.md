@@ -1,6 +1,6 @@
 Demo App : https://lucifer-dev-ea911.web.app/ 
 
-# Getting Started with Create React App
+# Chatting application 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
